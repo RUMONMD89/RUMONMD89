@@ -1,19 +1,3 @@
-### Hi there 👋
-
-
-**RUMONMD89/RUMONMD89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ### Hi there 👋, my name is RUMON MD
 #### web Developer & web Designer  
 ![web Developer & web Designer  ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -33,8 +17,3 @@ Skills:  JS / HTML / CSS/C++/python
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/RUMONMD89&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/RUMONMD89)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/RUMONMD89)  
