@@ -4,7 +4,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub  profile.
 
-Skills: HTML / CSS/C++/python
+Skills: HTML / CSS/C++/python / linux / sql
 
 - 🔭 I’m currently working on this page. 
 - 🤔 I’m looking for help with =>I am beginner here 
