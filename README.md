@@ -22,12 +22,11 @@ Skills: HTML / CSS/C++/python /sql/ linux / cybersecurity
 ### 📈 GitHub Activity Graph:
 [![RUMONMD89 github activity graph](https://activity-graph.herokuapp.com/graph?username=RUMONMD89&theme=react-dark)](https://github.com/RUMONMD89/github-readme-activity-graph)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RUMONMD89"></img>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&show_icons=true&theme=tokyonight)
 ](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RUMONMD89)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
