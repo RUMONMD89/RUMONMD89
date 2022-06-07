@@ -26,9 +26,9 @@ Skills: HTML / CSS/C++/python /sql/ linux / cybersecurity
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&show_icons=true&theme=tokyonight)
 ](https://github.com/anuraghazra/github-readme-stats)-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RUMONMD89"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RUMONMD89&layout=compact&theme=tokyonight"></img>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUMONMD89&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)
