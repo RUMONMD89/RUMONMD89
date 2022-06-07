@@ -17,3 +17,11 @@ Skills: HTML / CSS/C++/python / linux / sql
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&show_icons=true&theme=tokyonight)
+](https://github.com/anuraghazra/github-readme-stats)-->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IngridAkeida&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+
+![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)
