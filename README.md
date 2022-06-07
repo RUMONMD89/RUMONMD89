@@ -18,7 +18,7 @@ Skills: HTML / CSS/C++/python /sql/ linux / cybersecurity
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-
+![RUMONMD89's GitHub stats](https://github-readme-stats.vercel.app/api?username=RUMONMD89&show_icons=true&theme=city_lights)
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 [![RUMONMD89 github activity graph](https://activity-graph.herokuapp.com/graph?username=RUMONMD89&theme=react-dark)](https://github.com/RUMONMD89/github-readme-activity-graph)
