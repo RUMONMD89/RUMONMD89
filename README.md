@@ -24,21 +24,7 @@ Skills: HTML / CSS/C++/python /sql/ linux / cybersecurity
 
 <!--Languages-->
  
-<img src=".D:\git lab\rumonmd89/c++.png" height="40" style="vertical-align:down; margin:4px">
- <img src="D:\git lab\rumonmd89/css.png" height="40" style="vertical-align:down; margin:4px">
-<img src="D:\git lab\rumonmd89/js.png" height="40" style="vertical-align:down; margin:4px">
-<img src="D:\git lab\rumonmd89/python.png" height="40" style="vertical-align:down; margin:4px">
-  <img src="D:\git lab\rumonmd89/linux.png" height="40" style="vertical-align:down; margin:4px">
- <img src="D:\git lab\rumonmd89/kali.png" height="40" style="vertical-align:down; margin:4px">
 
-
-<!--Tools-->
-
-<img src=" D:\git lab\rumonmd89/github.png" height="40" style="vertical-align:down; margin:4px">
-<img src=" D:\git lab\rumonmd89/gitbash.png" height="40" style="vertical-align:down; margin:4px">
-<img src=" D:\git lab\rumonmd89/visual studio.png" height="40" style="vertical-align:down; margin:4px">
-<img src=" D:\git lab\rumonmd89/visual studio code.png" height="40" style="vertical-align:down; margin:4px">
-<br />
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&show_icons=true&theme=tokyonight)
