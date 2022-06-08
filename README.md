@@ -22,6 +22,24 @@ Skills: HTML / CSS/C++/python /sql/ linux / cybersecurity
 ### 📈 GitHub Activity Graph:
 [![RUMONMD89 github activity graph](https://activity-graph.herokuapp.com/graph?username=RUMONMD89&theme=react-dark)](https://github.com/RUMONMD89/github-readme-activity-graph)
 
+<!--Languages-->
+ 
+<img src="./images/language-icons/csharp.png" height="40" style="vertical-align:down; margin:4px">
+ <img src="./images/language-icons/cpp.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/language-icons/python.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/language-icons/html.png" height="40" style="vertical-align:down; margin:4px">
+  <img src="./images/language-icons/css.png" height="40" style="vertical-align:down; margin:4px">
+ <img src="./images/language-icons/javascript.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/language-icons/java.png" height="40" style="vertical-align:down; margin:4px">
+
+<!--Tools-->
+
+<img src="./images/language-icons/git.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/language-icons/github.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/language-icons/vscode.png" height="40" style="vertical-align:down; margin:4px">
+<img src="./images/language-icons/vs.png" height="40" style="vertical-align:down; margin:4px">
+<br />
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&show_icons=true&theme=tokyonight)
 ](https://github.com/anuraghazra/github-readme-stats)-->
