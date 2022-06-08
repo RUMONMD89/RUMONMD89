@@ -24,20 +24,20 @@ Skills: HTML / CSS/C++/python /sql/ linux / cybersecurity
 
 <!--Languages-->
  
-<img src="./images/language-icons/csharp.png" height="40" style="vertical-align:down; margin:4px">
- <img src="./images/language-icons/cpp.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/python.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/html.png" height="40" style="vertical-align:down; margin:4px">
-  <img src="./images/language-icons/css.png" height="40" style="vertical-align:down; margin:4px">
- <img src="./images/language-icons/javascript.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/java.png" height="40" style="vertical-align:down; margin:4px">
+<img src=".D:\git lab\rumonmd89/c++.png" height="40" style="vertical-align:down; margin:4px">
+ <img src="D:\git lab\rumonmd89/css.png" height="40" style="vertical-align:down; margin:4px">
+<img src="D:\git lab\rumonmd89/js.png" height="40" style="vertical-align:down; margin:4px">
+<img src="D:\git lab\rumonmd89/python.png" height="40" style="vertical-align:down; margin:4px">
+  <img src="D:\git lab\rumonmd89/linux.png" height="40" style="vertical-align:down; margin:4px">
+ <img src="D:\git lab\rumonmd89/kali.png" height="40" style="vertical-align:down; margin:4px">
+
 
 <!--Tools-->
 
-<img src="./images/language-icons/git.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/github.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/vscode.png" height="40" style="vertical-align:down; margin:4px">
-<img src="./images/language-icons/vs.png" height="40" style="vertical-align:down; margin:4px">
+<img src=" D:\git lab\rumonmd89/github.png" height="40" style="vertical-align:down; margin:4px">
+<img src=" D:\git lab\rumonmd89/gitbash.png" height="40" style="vertical-align:down; margin:4px">
+<img src=" D:\git lab\rumonmd89/visual studio.png" height="40" style="vertical-align:down; margin:4px">
+<img src=" D:\git lab\rumonmd89/visual studio code.png" height="40" style="vertical-align:down; margin:4px">
 <br />
 
 
