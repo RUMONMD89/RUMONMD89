@@ -6,7 +6,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: HTML / CSS/C++/python /Data science/machine learning /sql/ linux / cybersecurity
 
 - 🔭 I’m currently working on this page. 
-- 🤔 I’m looking for help with =>I am beginner here 
+- 🤔 I’m looking for help with =>I am beginner here.
 - My interests are Cybersecurity🔐, and Networking
 - 💬 Ask me about =>please feel free to contact me.  
 - 📫 How to reach me: mdrumon907@gmail.com 
