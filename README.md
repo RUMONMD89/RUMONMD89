@@ -7,7 +7,7 @@ Skills: HTML / CSS/C++/python /Data science/machine learning / Deep learning/NLP
 
 - 🔭 I’m currently working on this page. 
 - 🤔 I’m looking for help with =>I am beginner here.
-- My interests are Data science, Cybersecurity🔐, and Networking ..
+- My interests are AI-driven innovation.💥   Cybersecurity🔐, and Networking ..
 - 💬 Ask me about =>please feel free to contact me.  
 - 📫 How to reach me: mdrumon907@gmail.com 
 - ⚡ Fun fact: I think I am funny.  
