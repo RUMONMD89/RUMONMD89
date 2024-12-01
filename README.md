@@ -3,7 +3,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub  profile.
 
-Skills: HTML / CSS/C++/python /Data science/machine learning / Deep learning/NLP/ sql/ linux / cybersecurity
+Skills: HTML / CSS/C++/python /Data science/machine learning / Deep learning/NLP/ sql/Mysql/ linux / cybersecurity
 
 - 🔭 I’m currently working on this page. 
 - 🤔 I’m looking for help with =>I am beginner here.
