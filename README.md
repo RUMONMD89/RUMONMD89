@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B...;welcome+my+profile;+my+name+is+RUMON+MD;+you+can+also+call+me+RUMON;i+live+in+japan;)](https://git.io/typing-svg)
   
 
-“The best programmers are those who can think creatively, learn quickly, and adapt to new situations.” "Every challenge is a chance to grow stronger and wiser."
+“The best programmers are those who can think creatively, learn quickly, and adapt to new situations.” + "Every challenge is a chance to grow stronger and wiser." + "Believe in yourself; you are much stronger than you think."
 
 Skills: HTML / CSS/C++/python /Data science/machine learning / Deep learning/NLP/ sql/Mysql/ linux / cybersecurity
 
