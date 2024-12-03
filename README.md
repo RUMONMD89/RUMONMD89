@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B...;welcome+my+profile;+my+name+is+RUMON+MD;+you+can+also+call+me+RUMON;i+live+in+japan;)](https://git.io/typing-svg)
   
 
-I made this project just for fun, it allows you to create nice and simple GitHub  profile.
+“The best programmers are those who can think creatively, learn quickly, and adapt to new situations.” "Every challenge is a chance to grow stronger and wiser."
 
 Skills: HTML / CSS/C++/python /Data science/machine learning / Deep learning/NLP/ sql/Mysql/ linux / cybersecurity
 
