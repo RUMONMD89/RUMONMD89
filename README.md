@@ -3,7 +3,7 @@
 
 "I love challenges and am always seeking the next one." + "The best programmers are those who can think creatively, learn quickly, and adapt to new situations.” + "Every challenge is a chance to grow stronger and wiser." + "Believe in yourself; you are much stronger than you think."
 
-Skills: HTML / CSS / C++ / Python / Data science/ Machine learning / Deep learning / NLP/ SQL / MySQL / Linux / Cybersecurity
+Skill : HTML / CSS / C++ / Python / Data science/ Machine learning / Deep learning / NLP/ SQL / MySQL / Linux / Cybersecurity
 
 - 🔭 I’m currently working on this page. 
 - 🤔 I’m looking for help with =>I am beginner here.
