@@ -30,3 +30,6 @@ Skill : HTML / CSS / C++ / Python / Data science/ Machine learning / Deep learni
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUMONMD89&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)
+### 📈 GitHub Activity Graph:
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RUMONMD89"></img>
