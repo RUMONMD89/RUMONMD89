@@ -18,14 +18,8 @@ Skill : HTML / CSS / C++ / Python / Data science/ Machine learning / Deep learni
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![RUMONMD89 github activity graph](https://activity-graph.herokuapp.com/graph?username=RUMONMD89&theme=react-dark)](https://github.com/RUMONMD89/github-readme-activity-graph)
-
 <!--Languages-->
  
-
-
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&show_icons=true&theme=tokyonight)
 ](https://github.com/anuraghazra/github-readme-stats)-->
