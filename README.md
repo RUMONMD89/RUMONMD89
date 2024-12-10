@@ -24,7 +24,7 @@ Skill : HTML / CSS / C++ / Python / Data science/ Machine learning / Deep learni
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&show_icons=true&theme=tokyonight)
 ](https://github.com/anuraghazra/github-readme-stats)-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RUMONMD89&layout=compact&theme=tokyonight></img
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUMONMD89&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
