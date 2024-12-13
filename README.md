@@ -7,7 +7,7 @@ Skill : HTML / CSS / C++ / Python / Data science/ Machine learning / Deep learni
 
 - 🔭 I’m currently working on this page. 
 - 🤔 I’m looking for help with =>I am beginner here.
-- My interests are AI-driven innovation.💥   Cybersecurity🔐, and Networking ..
+- My interests are AI-driven innovation.💥 Cybersecurity🔐,  Networking ...
 - 💬 Ask me about =>please feel free to contact me.  
 - 📫 How to reach me: mdrumon907@gmail.com 
 - ⚡ Fun fact: I think I am funny.  
@@ -30,6 +30,4 @@ Skill : HTML / CSS / C++ / Python / Data science/ Machine learning / Deep learni
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUMONMD89&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)
-### 📈 GitHub Activity Graph:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RUMONMD89"></img>
